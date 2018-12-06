@@ -1,5 +1,9 @@
 # Supply Chain Exercise
 
+
+[![Travis (.org)](https://img.shields.io/travis/dev-bootcamp-2019/supply-chain-anshumanv.svg?style=for-the-badge)](https://github.com/dev-bootcamp-2019/supply-chain-anshumanv)
+
+
 The Supply Chain directory is a truffle project that contains the required contract, migration and test files. In this exercise you are going to implement the SupplyChain.sol contract and write some test in Solidity.
 
 Clone this repo to your local machine.
